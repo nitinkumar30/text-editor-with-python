@@ -14,7 +14,7 @@
 
 > pip install tkinter
 
-> if using PyCharm , press CTRL + Shift + S and press '+' on right side and search for 'tkinter' and install it
+> if using PyCharm , press CTRL + ALT + S and press '+' on right side and search for 'tkinter' and install it
 
 - [ ] run 'TextEditor.py' and enjoy !!  :handshake: :man_dancing: :woman_dancing:
 
